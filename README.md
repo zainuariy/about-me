@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zainuariy
-- 👀 I’m interested in front-end enginer
+- 👀 I’m interested in fullstack developer
 - 🌱 I’m currently learning HTML, CSS, & JavaScript
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ig: zaiariy
